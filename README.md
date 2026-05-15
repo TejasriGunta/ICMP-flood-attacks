@@ -20,7 +20,7 @@ This project implements an adaptive, multi-feature detection system with graduat
  
 ## How It Works
 
- <img width="1062" height="2000" alt="flow" src="https://github.com/user-attachments/assets/f874ada1-4475-4489-abb2-68081aa22221" />
+ <img width="350" height="200" alt="flow" src="https://github.com/user-attachments/assets/f874ada1-4475-4489-abb2-68081aa22221" />
 
 ### 1. Baseline Characterization
 Before detection begins, the system collects 60 seconds of clean traffic to derive a statistical baseline:
