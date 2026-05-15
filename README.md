@@ -13,7 +13,7 @@ This project implements an adaptive, multi-feature detection system with graduat
 ---
  
 ## Architecture
- <img width="350" height="207" alt="topology" src="https://github.com/user-attachments/assets/b95567db-a33a-490c-9039-4cd24ac38436" />
+ <img width="350" height="307" alt="topology" src="https://github.com/user-attachments/assets/b95567db-a33a-490c-9039-4cd24ac38436" />
 
  
 ---
