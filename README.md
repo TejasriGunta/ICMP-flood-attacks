@@ -54,7 +54,7 @@ The step size S is dynamic based on detection state:
 - **Warning State** → step halved (increased resolution)
 - **Attack State** → step reduced further (high precision)
 
-  <img width="1883" height="1104" alt="adaptive" src="https://github.com/user-attachments/assets/299ff64a-b926-4f22-8049-af5ad378b2dc" />
+  <img width="500" height="200" alt="adaptive" src="https://github.com/user-attachments/assets/299ff64a-b926-4f22-8049-af5ad378b2dc" />
 
  
 ### 5. Graduated Mitigation (OpenFlow 1.3 Meters)
