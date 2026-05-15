@@ -1,4 +1,4 @@
-# Adaptive Detection and Graduated Mitigation of ICMP-DDoS Flood Attacks in SDN
+# Detection and Mitigation of ICMP-DDoS Flood Attacks in SDN
  
 A real-time DDoS detection and mitigation system built on a Software-Defined Networking (SDN) environment using a Ryu controller and Mininet topology.
  
